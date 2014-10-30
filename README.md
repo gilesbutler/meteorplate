@@ -1,3 +1,3 @@
 ## Meteorplate
 
-A boilerplate for [Meteor](http://meteor.com/) projects.
+A boilerplate structure for [Meteor](http://meteor.com/) projects.
